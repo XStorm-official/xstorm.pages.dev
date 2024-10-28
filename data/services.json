@@ -1,0 +1,32 @@
+[
+    {
+      "icon": "Code",
+      "title": "Alchimie Digitale",
+      "description": "Nous transformons vos concepts en expériences numériques éblouissantes, fusionnant créativité et technologie de pointe."
+    },
+    {
+      "icon": "Rocket",
+      "title": "Propulsion Web",
+      "description": "Catapultez votre présence en ligne avec des sites web ultraperformants qui défient les lois de la vitesse et de l'engagement."
+    },
+    {
+      "icon": "Zap",
+      "title": "Optimisation Quantique",
+      "description": "Boostez vos performances à des niveaux inégalés grâce à nos techniques d'optimisation révolutionnaires."
+    },
+    {
+      "icon": "Shield",
+      "title": "Forteresse Numérique",
+      "description": "Protégez votre empire digital avec nos solutions de sécurité impénétrables."
+    },
+    {
+      "icon": "Target",
+      "title": "Précision Stratégique",
+      "description": "Atteignez vos objectifs avec une précision chirurgicale grâce à nos stratégies data-driven."
+    },
+    {
+      "icon": "Palette",
+      "title": "Design Transcendant",
+      "description": "Créez des interfaces qui captivent et inspirent, fusionnant esthétique avant-gardiste et ergonomie intuitive."
+    }
+  ]
